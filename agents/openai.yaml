@@ -1,0 +1,4 @@
+interface:
+  display_name: "高考志愿填报网页方案"
+  short_description: "Create verified gaokao volunteer planning webpages"
+  default_prompt: "Use $gaokao-volunteer-planner to create a source-backed college application planning webpage for a gaokao candidate."
